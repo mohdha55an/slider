@@ -1,6 +1,5 @@
-import Fetch from "./components/fetch"
 import Slider from "./components/Slider"
-
+import Fetch from './components/Fetch'
 
 function App() {
 
